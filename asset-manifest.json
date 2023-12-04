@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imageviewer/static/css/main.c7ec3132.css",
+    "main.js": "/imageviewer/static/js/main.1ed5fb81.js",
+    "index.html": "/imageviewer/index.html",
+    "main.c7ec3132.css.map": "/imageviewer/static/css/main.c7ec3132.css.map",
+    "main.1ed5fb81.js.map": "/imageviewer/static/js/main.1ed5fb81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.1ed5fb81.js"
+  ]
+}
